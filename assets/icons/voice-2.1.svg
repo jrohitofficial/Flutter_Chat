@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Voice 2</title>
+    <g id="Iconly/Curved/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Voice-2" transform="translate(4.500000, 2.500000)" stroke="#000000" stroke-width="1.5">
+            <path d="M2.10368,11.33236 C2.10368,14.30681 4.51478,16.71791 7.49018,16.71791 C10.46463,16.71791 12.87573,14.30681 12.87573,11.33236" id="Stroke-1"></path>
+            <path d="M12.875635,8.23973 L12.875635,6.09843 C12.875635,3.12398 10.464535,0.71288 7.490085,0.71288 C4.514685,0.71288 2.103585,3.12398 2.103585,6.09843 L2.103585,8.23973" id="Stroke-3"></path>
+            <line x1="7.49018" y1="18.762595" x2="7.49018" y2="16.718195" id="Stroke-5"></line>
+            <line x1="0.71212" y1="11.33236" x2="14.26767" y2="11.33236" id="Stroke-7"></line>
+            <line x1="5.997445" y1="7.95169" x2="8.982345" y2="7.95169" id="Stroke-9"></line>
+            <line x1="7.991115" y1="5.181965" x2="6.987915" y2="5.181965" id="Stroke-11"></line>
+        </g>
+    </g>
+</svg>

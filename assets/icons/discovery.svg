@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Discovery</title>
+    <g id="Iconly/Curved/Discovery" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Discovery" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M0.75,10.0001 C0.75,16.9371 3.063,19.2501 10,19.2501 C16.937,19.2501 19.25,16.9371 19.25,10.0001 C19.25,3.0631 16.937,0.7501 10,0.7501 C3.063,0.7501 0.75,3.0631 0.75,10.0001 Z" id="Stroke-1"></path>
+            <polygon id="Stroke-3" points="6.6978 13.3023 8.2718 8.2723 13.3018 6.6983 11.7278 11.7273"></polygon>
+        </g>
+    </g>
+</svg>

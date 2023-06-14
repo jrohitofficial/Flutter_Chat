@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Light-Outline/Profile</title>
+    <defs>
+        <polygon id="path-1" points="0 0.626 15.8399 0.626 15.8399 8 0 8"></polygon>
+        <polygon id="path-3" points="0.609868431 0.13 11.2299 0.13 11.2299 10.7486 0.609868431 10.7486"></polygon>
+    </defs>
+    <g id="Iconly/Light-Outline/Profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(4.000000, 1.000000)">
+            <g id="Group-3" transform="translate(0.000000, 12.870100)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M7.9209,2.126 C3.6599,2.126 1.4999,2.858 1.4999,4.303 C1.4999,5.761 3.6599,6.5 7.9209,6.5 C12.1809,6.5 14.3399,5.768 14.3399,4.323 C14.3399,2.865 12.1809,2.126 7.9209,2.126 M7.9209,8 C5.9619,8 -0.0001,8 -0.0001,4.303 C-0.0001,1.007 4.5209,0.626 7.9209,0.626 C9.8799,0.626 15.8399,0.626 15.8399,4.323 C15.8399,7.619 11.3199,8 7.9209,8" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-6" transform="translate(2.000000, 0.870100)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M5.9209,1.5576 C3.7799,1.5576 2.03787882,3.2986 2.03787882,5.4396 C2.0309,7.5736 3.7599,9.3136 5.8919,9.3216 L5.9209,10.0356 L5.9209,9.3216 C8.0609,9.3216 9.8019,7.5796 9.8019,5.4396 C9.8019,3.2986 8.0609,1.5576 5.9209,1.5576 M5.9209,10.7486 L5.8889,10.7486 C2.9669,10.7396 0.5999,8.3566 0.609868431,5.4366 C0.609868431,2.5116 2.9919,0.1296 5.9209,0.1296 C8.8489,0.1296 11.2299,2.5116 11.2299,5.4396 C11.2299,8.3676 8.8489,10.7486 5.9209,10.7486" id="Fill-4" fill="#000000" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

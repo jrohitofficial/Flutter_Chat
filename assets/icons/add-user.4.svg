@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Add User</title>
+    <g id="Iconly/Curved/Add-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Add-User" transform="translate(2.850300, 2.150000)" stroke="#000000" stroke-width="1.5">
+            <path d="M7.072,19.6583 C3.258,19.6583 1.15463195e-13,19.0813 1.15463195e-13,16.7713 C1.15463195e-13,14.4613 3.237,12.3603 7.072,12.3603 C10.886,12.3603 14.144,14.4413 14.144,16.7503 C14.144,19.0593 10.907,19.6583 7.072,19.6583 Z" id="Stroke-1"></path>
+            <path d="M7.07200002,9.066 C9.57500002,9.066 11.605,7.036 11.605,4.533 C11.605,2.029 9.57500002,1.50990331e-14 7.07200002,1.50990331e-14 C4.56900002,1.50990331e-14 2.53897,2.029 2.53897,4.533 C2.53000002,7.027 4.54600002,9.057 7.04000002,9.066 L7.07200002,9.066 Z" id="Stroke-3"></path>
+            <line x1="16.281" y1="5.9791" x2="16.281" y2="9.9891" id="Stroke-5"></line>
+            <line x1="18.3273" y1="7.9839" x2="14.2373" y2="7.9839" id="Stroke-7"></line>
+        </g>
+    </g>
+</svg>

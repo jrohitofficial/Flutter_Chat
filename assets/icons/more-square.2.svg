@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/More Square</title>
+    <g id="Iconly/Curved/More-Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="More-Square" transform="translate(2.000000, 2.000000)" stroke="#000000">
+            <path d="M0.75,10.0001 C0.75,3.0631 3.063,0.7501 10,0.7501 C16.937,0.7501 19.25,3.0631 19.25,10.0001 C19.25,16.9371 16.937,19.2501 10,19.2501 C3.063,19.2501 0.75,16.9371 0.75,10.0001 Z" id="Stroke-4" stroke-width="1.5"></path>
+            <line x1="13.9935" y1="10" x2="14.0025" y2="10" id="Stroke-11" stroke-width="2"></line>
+            <line x1="9.9945" y1="10" x2="10.0035" y2="10" id="Stroke-13" stroke-width="2"></line>
+            <line x1="5.9955" y1="10" x2="6.0045" y2="10" id="Stroke-15" stroke-width="2"></line>
+        </g>
+    </g>
+</svg>

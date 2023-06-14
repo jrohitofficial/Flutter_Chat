@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Shield Fail</title>
+    <g id="Iconly/Curved/Shield-Fail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Shield-Fail" transform="translate(3.500000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M8.4852,19.6057 C10.8192,19.6057 16.1572,17.2837 16.1572,10.8787 C16.1572,4.4747 16.4352,3.9737 15.8192,3.3577 C15.2032,2.7417 11.9942,0.7507 8.4852,0.7507 C4.9762,0.7507 1.7662,2.7417 1.1502,3.3577 C0.5342,3.9737 0.8122,4.4747 0.8122,10.8787 C0.8122,17.2837 6.1502,19.6057 8.4852,19.6057 Z" id="Stroke-1"></path>
+            <line x1="10.3641" y1="11.8245" x2="6.6051" y2="8.0665" id="Stroke-3"></line>
+            <line x1="6.6053" y1="11.8245" x2="10.3643" y2="8.0665" id="Stroke-5"></line>
+        </g>
+    </g>
+</svg>

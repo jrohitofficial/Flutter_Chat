@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Time Square</title>
+    <g id="Iconly/Curved/Time-Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Time-Square" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M0.7501,10.0001 C0.7501,16.9371 3.0631,19.2501 10.0001,19.2501 C16.9371,19.2501 19.2501,16.9371 19.2501,10.0001 C19.2501,3.0631 16.9371,0.7501 10.0001,0.7501 C3.0631,0.7501 0.7501,3.0631 0.7501,10.0001 Z" id="Stroke-1"></path>
+            <polyline id="Stroke-3" points="13.3902 12.0181 9.9992 9.9951 9.9992 5.6341"></polyline>
+        </g>
+    </g>
+</svg>

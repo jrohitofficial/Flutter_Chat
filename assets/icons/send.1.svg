@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Send</title>
+    <g id="Iconly/Curved/Send" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Send" transform="translate(2.800000, 2.800000)" stroke="#000000" stroke-width="1.5">
+            <path d="M8.69324995,9.63816777 C8.69324995,9.63816777 -3.28340005,7.16056777 0.878549946,4.75801777 C4.39069995,2.73071777 16.4946499,-0.75483223 18.1856499,0.14576777 C19.0862499,1.83676777 15.6006999,13.9407178 13.5733999,17.4528678 C11.1708499,21.6148178 8.69324995,9.63816777 8.69324995,9.63816777 Z" id="Stroke-1"></path>
+            <line x1="8.69325" y1="9.638168" x2="18.18565" y2="0.145768" id="Stroke-3"></line>
+        </g>
+    </g>
+</svg>

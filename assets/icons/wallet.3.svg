@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Wallet</title>
+    <g id="Iconly/Curved/Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Wallet" transform="translate(2.000000, 3.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M19.1711429,11.6755238 L15.2844762,11.6755238 C13.8692381,11.6755238 12.721619,10.5279048 12.721619,9.11171429 C12.721619,7.69647619 13.8692381,6.54885714 15.2844762,6.54885714 L19.1406667,6.54885714" id="Stroke-1"></path>
+            <line x1="15.722" y1="9.05314286" x2="15.4248571" y2="9.05314286" id="Stroke-3"></line>
+            <line x1="5.60619048" y1="5.14371429" x2="9.66619048" y2="5.14371429" id="Stroke-5"></line>
+            <path d="M0.714095238,9.25314286 C0.714095238,2.84838095 3.03885714,0.714095238 10.0150476,0.714095238 C16.9902857,0.714095238 19.3150476,2.84838095 19.3150476,9.25314286 C19.3150476,15.6569524 16.9902857,17.7921905 10.0150476,17.7921905 C3.03885714,17.7921905 0.714095238,15.6569524 0.714095238,9.25314286 Z" id="Stroke-7"></path>
+        </g>
+    </g>
+</svg>

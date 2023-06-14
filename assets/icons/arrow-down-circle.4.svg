@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Light-Outline/Arrow - Down Circle</title>
+    <g id="Iconly/Light-Outline/Arrow---Down-Circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow---Down-Circle" transform="translate(2.000000, 2.000000)" fill="#000000">
+            <path d="M10,1.5 C5.313,1.5 1.5,5.313 1.5,10 C1.5,14.687 5.313,18.5 10,18.5 C14.687,18.5 18.5,14.687 18.5,10 C18.5,5.313 14.687,1.5 10,1.5 M10,20 C4.486,20 0,15.514 0,10 C0,4.486 4.486,0 10,0 C15.514,0 20,4.486 20,10 C20,15.514 15.514,20 10,20" id="Fill-1"></path>
+            <path d="M10,12.7939 L10,12.7939 C9.801,12.7939 9.609,12.7149 9.469,12.5729 L5.998,9.0869 C5.705,8.7929 5.707,8.3179 6,8.0259 C6.294,7.7339 6.769,7.7339 7.061,8.0279 L10,10.9819 L12.94,8.0279 C13.232,7.7339 13.707,7.7339 14.001,8.0259 C14.294,8.3179 14.295,8.7929 14.003,9.0869 L10.531,12.5729 C10.391,12.7149 10.199,12.7939 10,12.7939" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

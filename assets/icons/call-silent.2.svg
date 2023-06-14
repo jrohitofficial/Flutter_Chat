@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Call Silent</title>
+    <g id="Iconly/Curved/Call-Silent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Call-Silent" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M3.60856093,12.0575325 C-0.97742022,6.69623806 -0.129226021,4.12706329 0.508777375,3.2246672 C0.604318649,3.0548044 2.90792492,-0.384917178 5.36970508,1.6322035 C10.2210787,5.63459559 6.36864218,6.01678688 7.11174098,8.55411237" id="Stroke-1"></path>
+            <path d="M9.08541138,11.3141704 C14.0121564,16.0597123 13.3858303,8.58574931 18.3635307,14.6264949 C20.3911288,17.1001219 16.9410272,19.3932696 16.7711761,19.4888174 C15.7743621,20.2107343 12.6629013,21.1768289 5.90070225,14.4990978" id="Stroke-3"></path>
+            <line x1="0.75" y1="19.2501" x2="19.25" y2="0.7501" id="Stroke-5"></line>
+        </g>
+    </g>
+</svg>

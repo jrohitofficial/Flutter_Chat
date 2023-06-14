@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Call</title>
+    <g id="Iconly/Curved/Call" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Call" transform="translate(2.500000, 2.500000)" stroke="#000000" stroke-width="1.5">
+            <path d="M5.70048686,13.2990152 C-1.19749607,6.40022271 -0.216619457,3.24115109 0.510545563,2.22315724 C0.603962383,2.05862226 2.90647469,-1.3881202 5.37458954,0.634067783 C11.5008221,5.67945335 3.74510296,4.96611459 8.8893974,10.1112827 C14.0347534,15.2553892 13.3213886,7.49995329 18.3658969,13.6249006 C20.3881587,16.0939869 16.9412904,18.3964151 16.7778109,18.488767 C15.7597799,19.2169669 12.5995313,20.1978077 5.70048686,13.2990152 Z" id="Stroke-1"></path>
+        </g>
+    </g>
+</svg>

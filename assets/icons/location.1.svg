@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Light-Outline/Location</title>
+    <defs>
+        <polygon id="path-1" points="0 0.5 16.4995 0.5 16.4995 20 0 20"></polygon>
+    </defs>
+    <g id="Iconly/Light-Outline/Location" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location" transform="translate(4.000000, 1.000000)">
+            <path d="M8.2505,7.5 C7.2855,7.5 6.5005,8.285 6.5005,9.251 C6.5005,10.216 7.2855,11 8.2505,11 C9.2155,11 10.0005,10.216 10.0005,9.251 C10.0005,8.285 9.2155,7.5 8.2505,7.5 M8.2505,12.5 C6.4585,12.5 5.0005,11.043 5.0005,9.251 C5.0005,7.458 6.4585,6 8.2505,6 C10.0425,6 11.5005,7.458 11.5005,9.251 C11.5005,11.043 10.0425,12.5 8.2505,12.5" id="Fill-1" fill="#000000"></path>
+            <g id="Group-5" transform="translate(0.000000, 0.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M8.2495,2 C4.5275,2 1.4995,5.057 1.4995,8.813 C1.4995,13.592 7.1235,18.248 8.2495,18.496 C9.3755,18.247 14.9995,13.591 14.9995,8.813 C14.9995,5.057 11.9715,2 8.2495,2 L8.2495,2 Z M8.2495,20 C6.4555,20 -0.0005,14.448 -0.0005,8.813 C-0.0005,4.229 3.7005,0.5 8.2495,0.5 C12.7985,0.5 16.4995,4.229 16.4995,8.813 C16.4995,14.448 10.0435,20 8.2495,20 L8.2495,20 Z" id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

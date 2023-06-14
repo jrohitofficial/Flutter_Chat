@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Discount</title>
+    <g id="Iconly/Curved/Discount" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Discount" transform="translate(2.000000, 2.000000)" stroke="#000000">
+            <path d="M0.7502,10.0001 C0.7502,3.0631 3.0632,0.7501 10.0002,0.7501 C16.9372,0.7501 19.2502,3.0631 19.2502,10.0001 C19.2502,16.9371 16.9372,19.2501 10.0002,19.2501 C3.0632,19.2501 0.7502,16.9371 0.7502,10.0001 Z" id="Stroke-1" stroke-width="1.5"></path>
+            <line x1="7.4299" y1="12.5699" x2="12.5699" y2="7.4299" id="Stroke-3" stroke-width="1.5"></line>
+            <line x1="12.4955" y1="12.5" x2="12.5045" y2="12.5" id="Stroke-15" stroke-width="2"></line>
+            <line x1="7.4955" y1="7.5" x2="7.5045" y2="7.5" id="Stroke-15" stroke-width="2"></line>
+        </g>
+    </g>
+</svg>

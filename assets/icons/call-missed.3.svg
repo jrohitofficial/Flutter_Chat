@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Call Missed</title>
+    <g id="Iconly/Curved/Call-Missed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Call-Missed" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <line x1="19.3283" y1="0.7499" x2="13.3283" y2="6.7499" id="Stroke-1"></line>
+            <line x1="13.3283" y1="0.7499" x2="19.3283" y2="6.7499" id="Stroke-3"></line>
+            <path d="M5.70098112,14.2990189 C-1.19780695,7.4002308 -0.216966797,4.2411612 0.511232714,3.22210649 C0.603584547,3.05863313 2.90601128,-0.388107123 5.37509592,1.63407957 C11.5011008,6.67946189 3.74460839,5.9661236 8.88977315,11.1112884 C14.0338764,16.2553916 13.3205381,8.49996067 18.3659204,14.6249041 C20.3881071,17.0939887 16.9413669,19.3953539 16.7778935,19.4887673 C15.7588388,20.2169668 12.5997692,21.197807 5.70098112,14.2990189 Z" id="Stroke-5"></path>
+        </g>
+    </g>
+</svg>

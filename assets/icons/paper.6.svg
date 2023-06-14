@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Paper</title>
+    <g id="Iconly/Curved/Paper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Paper" transform="translate(3.649800, 2.749900)" stroke="#000000" stroke-width="1.5">
+            <line x1="10.6555" y1="12.6999" x2="5.2555" y2="12.6999" id="Stroke-1"></line>
+            <line x1="8.6106" y1="8.6886" x2="5.2546" y2="8.6886" id="Stroke-2"></line>
+            <path d="M16.51,5.55 L10.84,0.15 C10.11,0.05 9.29,0 8.39,0 C2.1,0 -1.95399252e-14,2.32 -1.95399252e-14,9.25 C-1.95399252e-14,16.19 2.1,18.5 8.39,18.5 C14.69,18.5 16.79,16.19 16.79,9.25 C16.79,7.83 16.7,6.6 16.51,5.55 Z" id="Stroke-3"></path>
+            <path d="M10.2844,0.0827 L10.2844,2.7437 C10.2844,4.6017 11.7904,6.1067 13.6484,6.1067 L16.5994,6.1067" id="Stroke-5"></path>
+        </g>
+    </g>
+</svg>

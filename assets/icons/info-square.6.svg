@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Info Square</title>
+    <g id="Iconly/Curved/Info-Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Info-Square" transform="translate(2.750200, 2.749900)" stroke="#000000" stroke-width="1.5">
+            <path d="M0,9.25 C0,2.313 2.313,0 9.25,0 C16.187,0 18.5,2.313 18.5,9.25 C18.5,16.187 16.187,18.5 9.25,18.5 C2.313,18.5 0,16.187 0,9.25 Z" id="Stroke-1" transform="translate(9.250000, 9.250000) rotate(-180.000000) translate(-9.250000, -9.250000) "></path>
+            <line x1="9.25" y1="9.2501" x2="9.25" y2="13.1451" id="Stroke-3" transform="translate(9.250000, 11.197600) rotate(-180.000000) translate(-9.250000, -11.197600) "></line>
+            <line x1="9.2453" y1="5.7501" x2="9.2543" y2="5.7501" id="Stroke-15" transform="translate(9.249800, 5.750100) rotate(-180.000000) translate(-9.249800, -5.750100) "></line>
+        </g>
+    </g>
+</svg>

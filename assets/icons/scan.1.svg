@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Scan</title>
+    <g id="Iconly/Curved/Scan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Scan" transform="translate(1.450000, 2.950000)" stroke="#000000" stroke-width="1.5">
+            <line x1="21.132" y1="9.8501" x2="3.01980663e-14" y2="9.8501" id="Stroke-1"></line>
+            <path d="M1.5461,5.77 C2.1161,2.29 3.8361,0.57 7.3161,-8.8817842e-15" id="Stroke-3"></path>
+            <path d="M7.3161,18.0401 C3.8361,17.4601 2.1161,15.7501 1.5461,12.2701 L1.5451,12.2741 C1.4241,11.5541 1.3551,10.7441 1.3351,9.8541" id="Stroke-5"></path>
+            <path d="M19.7946,9.854 C19.7746,10.744 19.7046,11.554 19.5846,12.274 L19.5866,12.27 C19.0156,15.75 17.2956,17.46 13.8156,18.04" id="Stroke-7"></path>
+            <path d="M13.8161,-8.8817842e-15 C17.2961,0.57 19.0161,2.29 19.5861,5.77" id="Stroke-9"></path>
+        </g>
+    </g>
+</svg>

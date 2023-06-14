@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Arrow - Left 3</title>
+    <g id="Iconly/Curved/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrow---Left-3" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">
+            <line x1="5.3939" y1="9.7001" x2="5.3939" y2="0.7501" id="Stroke-1"></line>
+            <path d="M5.3998,17.3539 C6.6558,17.3539 10.6708,10.9899 9.9488,10.2679 C9.2268,9.5459 1.6418,9.4769 0.8508,10.2679 C0.0598,11.0599 4.1448,17.3539 5.3998,17.3539 Z" id="Stroke-3"></path>
+        </g>
+    </g>
+</svg>

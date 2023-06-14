@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Work</title>
+    <g id="Iconly/Curved/Work" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Work" transform="translate(2.750200, 2.450300)" stroke="#000000" stroke-width="1.5">
+            <line x1="9.2109" y1="14.0665" x2="9.2109" y2="11.4385" id="Stroke-1"></line>
+            <path d="M18.3393,9.0274 L18.3103,9.0484 C15.8883,10.5404 12.6903,11.4414 9.2063,11.4414 C5.7223,11.4414 2.5333,10.5404 0.1123,9.0484 L0.0823,9.0274" id="Stroke-2"></path>
+            <path d="M-2.14939178e-13,10.9004 C-2.14939178e-13,4.7484 2.303,2.6974 9.211,2.6974 C16.12,2.6974 18.422,4.7484 18.422,10.9004 C18.422,17.0524 16.12,19.1034 9.211,19.1034 C2.303,19.1034 -2.14939178e-13,17.0524 -2.14939178e-13,10.9004 Z" id="Stroke-4"></path>
+            <path d="M12.4736,2.919 L12.4736,2.289 C12.4736,1.025 11.5506,-8.8817842e-15 10.4136,-8.8817842e-15 L8.0086,-8.8817842e-15 C6.8716,-8.8817842e-15 5.9486,1.025 5.9486,2.289 L5.9486,2.919" id="Stroke-6"></path>
+        </g>
+    </g>
+</svg>

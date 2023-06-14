@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Image</title>
+    <g id="Iconly/Curved/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Image" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M4.0706,14.459 C4.0706,14.459 4.8826,12.822 6.0646,12.822 C7.2466,12.822 7.8506,14.197 9.1606,14.197 C10.4696,14.197 11.9386,10.749 13.4226,10.749 C14.9046,10.749 15.9706,13.14 15.9706,13.14" id="Stroke-1"></path>
+            <path d="M8.1393,7.1049 C8.1393,7.9649 7.4423,8.6629 6.5813,8.6629 C5.7213,8.6629 5.0243,7.9649 5.0243,7.1049 C5.0243,6.2449 5.7213,5.5469 6.5813,5.5469 C7.4423,5.5479 8.1393,6.2449 8.1393,7.1049 Z" id="Stroke-3"></path>
+            <path d="M0.7503,10.0001 C0.7503,16.9371 3.0633,19.2501 10.0003,19.2501 C16.9373,19.2501 19.2503,16.9371 19.2503,10.0001 C19.2503,3.0631 16.9373,0.7501 10.0003,0.7501 C3.0633,0.7501 0.7503,3.0631 0.7503,10.0001 Z" id="Stroke-5"></path>
+        </g>
+    </g>
+</svg>

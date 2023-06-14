@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Arrow - Down Circle</title>
+    <g id="Iconly/Curved/Arrow---Down-Circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrow---Down-Circle" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">
+            <path d="M0.7503,10.0001 C0.7503,16.9371 3.0633,19.2501 10.0003,19.2501 C16.9373,19.2501 19.2503,16.9371 19.2503,10.0001 C19.2503,3.0631 16.9373,0.7501 10.0003,0.7501 C3.0633,0.7501 0.7503,3.0631 0.7503,10.0001 Z" id="Stroke-1"></path>
+            <path d="M6.5286,8.5582 C6.5286,8.5582 8.9206,12.0442 10.0006,12.0442 C11.0806,12.0442 13.4706,8.5582 13.4706,8.5582" id="Stroke-3"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Bag</title>
+    <g id="Iconly/Curved/Bag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Bag" transform="translate(2.949964, 2.549853)" stroke="#000000" stroke-width="1.5">
+            <path d="M13.413836,4.32004688 C13.413836,1.93404688 11.479836,4.68846679e-05 9.093836,4.68846679e-05 C6.707836,-0.0109531153 4.765836,1.91504688 4.754836,4.30104688 L4.754836,4.32004688" id="Stroke-1"></path>
+            <line x1="12.022736" y1="8.823947" x2="11.976736" y2="8.823947" id="Stroke-3"></line>
+            <line x1="6.191636" y1="8.823947" x2="6.145636" y2="8.823947" id="Stroke-5"></line>
+            <path d="M9.08423611,18.939647 C2.57623611,18.939647 1.82723611,16.889647 0.366236112,11.472647 C-1.09976389,6.038647 1.84123611,4.005647 9.08423611,4.005647 C16.3272361,4.005647 19.2682361,6.038647 17.8022361,11.472647 C16.3412361,16.889647 15.5922361,18.939647 9.08423611,18.939647 Z" id="Stroke-7"></path>
+        </g>
+    </g>
+</svg>

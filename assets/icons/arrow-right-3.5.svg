@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Light-Outline/Arrow - Right 3</title>
+    <defs>
+        <polygon id="path-1" points="0.9502 0.499 10.3872 0.499 10.3872 12 0.9502 12"></polygon>
+    </defs>
+    <g id="Iconly/Light-Outline/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow---Right-3" transform="translate(3.000000, 6.000000)">
+            <path d="M9.7002,7.5004 L0.7502,7.5004 C0.3362,7.5004 0.0002,7.1644 0.0002,6.7504 C0.0002,6.3364 0.3362,6.0004 0.7502,6.0004 L9.7002,6.0004 C10.1142,6.0004 10.4502,6.3364 10.4502,6.7504 C10.4502,7.1644 10.1142,7.5004 9.7002,7.5004" id="Fill-1" fill="#000000"></path>
+            <g id="Group-5" transform="translate(8.000000, 0.501400)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M2.4502,2.6074 L2.4502,9.8904 L8.2302,6.2494 L2.4502,2.6074 Z M1.7002,12.0004 C1.5752,12.0004 1.4512,11.9684 1.3382,11.9064 C1.0982,11.7744 0.9502,11.5234 0.9502,11.2504 L0.9502,1.2484 C0.9502,0.9744 1.0982,0.7234 1.3382,0.5914 C1.5772,0.4604 1.8702,0.4684 2.0992,0.6134 L10.0372,5.6144 C10.2562,5.7524 10.3872,5.9914 10.3872,6.2494 C10.3872,6.5064 10.2562,6.7464 10.0372,6.8834 L2.0992,11.8844 C1.9782,11.9614 1.8392,12.0004 1.7002,12.0004 L1.7002,12.0004 Z" id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconly/Curved/Hide</title>
+    <g id="Iconly/Curved/Hide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Hide" transform="translate(2.000000, 3.500000)" stroke="#000000" stroke-width="1.5">
+            <path d="M4.42,14.2298 C2.19,12.7698 0.75,10.5698 0.75,8.6398 C0.75,5.3598 4.89,1.3398 10,1.3398 C12.09,1.3398 14.03,2.0098 15.59,3.0498" id="Stroke-1"></path>
+            <path d="M17.8497,5.1102 C18.7407,6.2402 19.2597,7.4902 19.2597,8.6402 C19.2597,11.9202 15.1097,15.9402 9.9997,15.9402 C9.0897,15.9402 8.2007,15.8102 7.3697,15.5802" id="Stroke-3"></path>
+            <path d="M7.7657,10.867 C7.1707,10.278 6.8377,9.475 6.8406799,8.638 C6.8367,6.893 8.2487,5.475 9.9947,5.47199104 C10.8347,5.47 11.6407,5.803 12.2347,6.397" id="Stroke-5"></path>
+            <path d="M13.1095,9.1991 C12.8755,10.4911 11.8645,11.5041 10.5725,11.7411" id="Stroke-7"></path>
+            <line x1="17.8917" y1="0.7499" x2="2.1177" y2="16.5239" id="Stroke-9"></line>
+        </g>
+    </g>
+</svg>
